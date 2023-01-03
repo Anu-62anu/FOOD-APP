@@ -1,1 +1,1 @@
-Getting Started with creating responisve website
+Getting Started with creating responisve websites
